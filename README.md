@@ -17,3 +17,5 @@ All these links work as of July 2023.
 
 3. (If you make an account and get access to a book using the above link, I think) Kaplan's Essay Grading Service:
 [link](https://kaptest.formstack.com/forms/kaplanessays)
+
+> The whole secret lies in confusing the enemy, so that he cannot fathom our real intent. &mdash; Sun Tzu, The Art of War
