@@ -3,7 +3,9 @@
 All these links work as of July 2023.
 
 - Some things have been inherited from [this repo](https://github.com/AmoghDabholkar/GRE_PREP/tree/master).
-- A list by Rice University: [here](https://oaa.rice.edu/sites/g/files/bxs3031/files/inline-files/GRE%20Free%20Prep%20Resources.pdf)
+- A list by Rice University: [here](https://oaa.rice.edu/sites/g/files/bxs3031/files/inline-files/GRE%20Free%20Prep%20Resources.pdf).
+- There are 60 essays in the write-ups folder: Some may not be completed, while others may have non-ETS topics.
+- Would recommend AWA practice only using topics from the official pool.
 
 
 ### Other helpful links
