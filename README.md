@@ -10,10 +10,10 @@ All these links work as of July 2023.
 
 ### Other helpful links
 1. McGrawHill (5 Tests - some questions seem to be from bigbook): 
-https://www.mhpracticeplus.com/gre.php 
+[link](https://www.mhpracticeplus.com/gre.php)
 
 2. Get Access to Kaplan's tests/practice material:
-https://www.kaptest.com/booksonline
+[link](https://www.kaptest.com/booksonline)
 
 3. (If you make an account and get access to a book using the above link, I think) Kaplan's Essay Grading Service:
-https://kaptest.formstack.com/forms/kaplanessays
+[link](https://kaptest.formstack.com/forms/kaplanessays)
